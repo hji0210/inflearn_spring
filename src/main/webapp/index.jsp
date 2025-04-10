@@ -24,7 +24,7 @@
   </c:when>
   
   <c:when test="${age == 20}">
-    갓 성년입니다.tjrhjrh고추추추
+    갓 성년입니다.
   </c:when>
   
   <c:otherwise>
